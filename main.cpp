@@ -9,6 +9,7 @@ void userCredentials();
 void clearScreen()
 {
      cout << "\033[2J\033[H"; // ANSI escape codes to clear screen for all OS
+     // this is comment 
 }
 void students()
 {
