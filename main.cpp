@@ -8,7 +8,7 @@ using namespace std;
 void userCredentials();
 void clearScreen()
 {
-     cout << "\033[2J\033[H"; // ANSI escape codes to clear screen
+     cout << "\033[2J\033[H"; // ANSI escape codes to clear screen for all OS
 }
 void students()
 {
